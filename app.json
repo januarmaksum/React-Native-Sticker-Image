@@ -21,10 +21,19 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.januarmaksum.StickerSmash"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1dc09a3e-75e1-42f9-be00-7fb2201b6407"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
