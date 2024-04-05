@@ -1,1 +1,1 @@
-![sticker image](https://github.com/januarmaksum/react-native-sticker-image/assets/16111179/059aed80-afd1-4e67-9517-46a88a0b368d)
+![Screenshot 2024-04-05 101501](https://github.com/januarmaksum/react-native-sticker-image/assets/16111179/75e69eea-1178-4d0e-a321-1ec524045950)
